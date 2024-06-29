@@ -21,4 +21,34 @@ body {
     --white: #FFFFFF;
 }
 
-/* Escreva a partir daqui */
+header{
+margin: 0%;
+padding: 0;
+border: 0;
+box-sizing: border-box;
+color: var(--blue)
+
+}
+
+button{
+    color: var(--gray);
+}
+
+main{
+    margin: 30%;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    color: var(--gray);
+}
+
+div{
+    color: var(--white);
+}
+
+footer{
+    margin: 70%;
+    padding: 90;
+    border: 0;
+    box-sizing: border-box;
+}
