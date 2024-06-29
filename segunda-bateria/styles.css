@@ -22,4 +22,49 @@ body {
     --black: #030406;
 }
 
-/* Escreva a partir daqui */
+header{
+    background-color: #030406;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+
+
+ul{
+    color: #A00000;
+}
+
+div {
+    color:var(--blue)
+}
+
+}
+
+main{
+
+
+
+    ul{
+        background-color: #A00000;
+        color: #FFFFFF;
+         margin: 0;
+        padding: 0;
+         border: 0;
+        box-sizing: border-box;
+    }
+
+    div{
+        background-attachment: var(--blue);
+        color: var(--white);
+        color: #FFFFFF;
+         margin: 80;
+        padding: 0;
+         border: 0;
+        box-sizing: border-box;
+    
+    }
+}
+
+footer{
+    
+}
